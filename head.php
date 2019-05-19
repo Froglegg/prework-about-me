@@ -1,5 +1,4 @@
 <meta charset="utf-8"/>
-<html lang="en-US">
 
 <!--this be your meta section; 'viewport' is for responsive design, don't set overly large widths!-->
 
